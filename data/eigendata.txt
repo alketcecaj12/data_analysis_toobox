@@ -1,0 +1,8 @@
+A   home:3,work:6,hobbyplace:2,elsewhere:13
+B   home:3,work:7,hobbyplace:1,elsewhere:13
+C   home:16,work:4,hobbyplace:1,elsewhere:3
+D   home:15,work:4,hobbyplace:3,elsewhere:2
+E   home:6,work:14,hobbyplace:1,elsewhere:3
+F   home:5,work:14,hobbyplace:1,elsewhere:4 
+G   home:6,work:4,hobbyplace:10,elsewhere:3
+H   home:5,work:4,hobbyplace:11,elsewhere:4

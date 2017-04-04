@@ -1,0 +1,12 @@
+A   Lady in the Water:5.0,Snakes on a Plane:4.5,Just My Luck:5.0,Superman Returns:3.5,The Night Listener:5.0,You Me and Dupree:4.5
+B   Lady in the Water:5.0,Snakes on a Plane:3.5,Just My Luck:5.0,Superman Returns:3.5,The Night Listener:4.5,You Me and Dupree:4.0
+C   Lady in the Water:5.0,Snakes on a Plane:4.5,Just My Luck:5.0,Superman Returns:3.5,The Night Listener:4.0,You Me and Dupree:4.5
+D   Lady in the Water:5.0,Snakes on a Plane:3.5,Just My Luck:5.0,Superman Returns:3.5,The Night Listener:5.5,You Me and Dupree:4.0
+E   Lady in the Water:5.0,Snakes on a Plane:4.5,Just My Luck:5.0,Superman Returns:3.5,The Night Listener:4.0,You Me and Dupree:4.5
+F   Lady in the Water:5.0,Snakes on a Plane:3.5,Just My Luck:5.0,Superman Returns:3.5,The Night Listener:4.5,You Me and Dupree:4.0
+G   Lady in the Water:0.5,Snakes on a Plane:1.0,Just My Luck:1.0,Superman Returns:2.5,The Night Listener:1.0,You Me and Dupree:1.0
+I   Lady in the Water:0.5,Snakes on a Plane:1.0,Just My Luck:1.0,Superman Returns:1.5,The Night Listener:1.0,You Me and Dupree:1.5
+H   Lady in the Water:0.5,Snakes on a Plane:1.0,Just My Luck:1.0,Superman Returns:1.5,The Night Listener:1.0,You Me and Dupree:1.0
+K   Lady in the Water:0.5,Snakes on a Plane:1.0,Just My Luck:1.0,Superman Returns:2.5,The Night Listener:1.0,You Me and Dupree:1.5
+M   Lady in the Water:0.5,Snakes on a Plane:1.0,Just My Luck:1.0,Superman Returns:1.5,The Night Listener:1.0,You Me and Dupree:1.0
+N   Lady in the Water:0.5,Snakes on a Plane:1.0,Just My Luck:1.0,Superman Returns:1.5,The Night Listener:1.0,You Me and Dupree:0.5
